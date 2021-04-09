@@ -1,4 +1,4 @@
-module github.com/ranglust/echo-logrus/v4.0
+module github.com/ranglust/echo-logrus/v4
 
 go 1.13
 
